@@ -41,9 +41,9 @@
 }
 
 .button-inc {
-  color: green;
+  background: #89b93f;
 }
 
 .button-dec {
-  color: red;
+  background: #d61218;
 }
