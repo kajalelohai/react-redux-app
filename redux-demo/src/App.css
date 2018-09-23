@@ -47,3 +47,10 @@
 .button-dec {
   background: #d61218;
 }
+
+.input-screen {
+  width: 284px;
+  text-align: right;
+  height: 30px;
+  margin-left: 72px;
+}
